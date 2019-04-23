@@ -2,4 +2,5 @@
 ! Version: 111
 ! Title: csdnadfilters
 ! Expires: 1 days
-||mail.163.com##.nui-closeable
+! Homepage: https://github.com/Azero-NG/csdnRemoveAd
+www.mail.163.com##.nui-closeable
